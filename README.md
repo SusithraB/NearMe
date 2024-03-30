@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+```
 map.html
 
 <html>
@@ -170,6 +170,7 @@ If you could provide more details or specify which Krishna Nagar you're interest
 </p>
 </body>
 </html>
+```
 
 ## OUTPUT
 ![alt text](1-1.png)
